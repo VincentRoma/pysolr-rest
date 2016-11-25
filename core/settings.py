@@ -1,3 +1,8 @@
-HOST = "10.127.171.18"
-PORT = "8983"
-COLLECTION = "Parts_shard1_replica1"
+'''
+    Configuration file for remote Solr access
+    
+'''
+
+HOST = "evilcorp"
+PORT = "32774"
+COLLECTION = "Production_shard1_replica1"
